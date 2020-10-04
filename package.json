@@ -1,0 +1,12 @@
+{
+    "name": "base64",
+    "version": "1.0.0",
+    "description": "codigo de base 64",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app"
+    },
+    "author": "Ricardo Mejias",
+    "license": "ISC"
+}
